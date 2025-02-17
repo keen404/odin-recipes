@@ -13,4 +13,4 @@ Skill used on this project
 4.basic html boilerplate
 5.<ul><ol><li> tag
 6.<img> tag
-7.in line css such as height="", width=""
+7.in-line css such as height="", width=""
