@@ -53,3 +53,9 @@ img {
     background-color: rgba(255, 193, 193, 0.2);
 }
 
+.container-menu h1 {
+    background-color: rgb(233, 103, 103);
+    margin: -10px -30px 10px -30px;
+    padding: 40px 50px;
+    
+}
